@@ -1,6 +1,6 @@
 <h2 align="left">Olá 👋 Eu sou o Gustavo!</h2>
 
-<p align="center">
+<p align="left">
   <i>Desenvolvedor Web Full Stack em formação, criador de soluções com código, sonhos e propósito.</i>
 </p>
 
@@ -48,9 +48,17 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 <div align="left">
   <a href="https://www.linkedin.com/in/perfil-gustavo-da-costa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://w.app/zkxjyu" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="mailto:gustavopaulyno2012@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 ### 📊 GitHub Stats
 
