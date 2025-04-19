@@ -46,19 +46,17 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ### 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/perfil-gustavo-da-costa/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+<div align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gustavopaulyno2012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://w.app/zkxjyu">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+  <a href="https://w.app/zkxjyu" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="mailto:gustavopaulyno2012@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  <a href="https://www.linkedin.com/in/perfil-gustavo-da-costa/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</p>
-
-###
+</div>
 
 ### 📊 GitHub Stats
 
