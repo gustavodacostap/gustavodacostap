@@ -14,7 +14,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ###
 
-<img align="right" height="500" src="https://github.com/gustavodacostap/gustavodacostap/blob/main/Gustavo-Draw.png"  />
+<img align="right" height="300" src="https://github.com/gustavodacostap/gustavodacostap/blob/main/Gustavo-Draw.png"  />
 
 ### 💻 Tecnologias que uso
 
