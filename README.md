@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
 Desde pequeno, sempre fui movido pela curiosidade. Fuçava no PC, explorava jogos e me perguntava: “como isso funciona por trás?”. Em 2022, conheci a programação — e nunca mais parei. Hoje estudo Análise e Desenvolvimento de Sistemas pela UNINTER, mas minha evolução acontece mesmo nos estudos por fora e nos projetos práticos que desenvolvo com paixão.
 
@@ -20,7 +20,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Front-end:**
 <div align="left">
@@ -52,7 +52,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavodacostap&show_icons=true&count_private=true&theme=dracula" height="150" />
@@ -61,7 +61,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ---
 
-### 📬 Vamos nos conectar!
+### Vamos nos conectar!
 
 <div align="left">
   <a href="mailto:gustavopaulyno2012@gmail.com" target="_blank">
@@ -77,7 +77,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ---
 
-### 🎯 Curiosidades sobre mim
+### Curiosidades sobre mim
 
 - 🎻 Toco violino e violão (sou músico na CCB)
 - 🧠 Curto estudar inglês, francês e agora espanhol
