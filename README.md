@@ -10,11 +10,11 @@ Desde pequeno, sempre fui movido pela curiosidade. Fuçava no PC, explorava jogo
 
 Sou autodidata, gosto de aprender na marra — quebrando a cabeça, testando, refatorando e, claro, trocando ideia com o ChatGPT (porque às vezes a melhor aula é uma conversa cheia de "me explica isso direito").
 
-Tenho uma paixão enorme pelo Canadá 🇨🇦 — sonho em morar lá e, quem sabe, trabalhar com o que amo no país dos meus sonhos. Mas enquanto isso não rola, sigo firme criando meu caminho, com consistência, criatividade e muita perseverança.
+Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, trabalhar com o que amo no país dos meus sonhos. Mas enquanto isso não rola, sigo firme criando meu caminho, com consistência, criatividade e muita perseverança.
 
 ###
 
-<img align="right" height="200" src="https://github.com/gustavodacostap/gustavodacostap/blob/main/Gustavo-Draw.png"  />
+<img align="right" height="300" src="https://github.com/gustavodacostap/gustavodacostap/blob/main/Gustavo-Draw.png"  />
 
 ### 💻 Tecnologias que uso
 
