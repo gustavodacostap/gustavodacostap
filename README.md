@@ -59,7 +59,7 @@ Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, traba
 
 ---
 
-### Curiosidades sobre mim
+### Curiosidades
 
 - 🎻 Toco violino e violão (sou músico na CCB)
 - 🧠 Curto estudar inglês, francês e agora espanhol
