@@ -1,7 +1,7 @@
 <h2 align="left">Olá 👋 Eu sou o Gustavo!</h2>
 
 <p align="left">
-  <i>Desenvolvedor Web Full Stack em formação, criando soluções com código, sonhos e propósito.</i>
+  <i>Desenvolvedor Web Full Stack em formação, criador de soluções com código, sonhos e propósito.</i>
 </p>
 
 ---
