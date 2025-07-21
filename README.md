@@ -10,11 +10,11 @@
 
 ### Sobre mim
 
-Desde pequeno, sempre fui movido pela curiosidade. Fuçava no PC, explorava jogos e me perguntava: “como isso funciona por trás?”. Em 2022, conheci a programação — e nunca mais parei. Hoje estudo Análise e Desenvolvimento de Sistemas pela UNINTER, mas minha evolução acontece mesmo nos estudos por fora e nos projetos práticos que desenvolvo com paixão.
+Desde pequeno, sempre fui movido pela curiosidade. Fuçava no PC, explorava jogos e me perguntava: “como isso funciona por trás?”. Em 2022, conheci a programação e nunca mais parei. Hoje estudo Análise e Desenvolvimento de Sistemas pela UNINTER, mas minha evolução acontece mesmo nos estudos por fora e nos projetos práticos que desenvolvo com paixão.
 
-Sou autodidata, gosto de aprender na marra — quebrando a cabeça, testando, refatorando e, claro, trocando ideia com o ChatGPT (porque às vezes a melhor aula é uma conversa cheia de "me explica isso direito").
+Sou autodidata, gosto de aprender na marra, quebrando a cabeça, testando, refatorando e, claro, trocando ideia com o ChatGPT (porque às vezes a melhor aula é uma conversa cheia de "me explique isso passo a passo").
 
-Tenho uma paixão enorme pelo Canadá — sonho em morar lá e, quem sabe, trabalhar com o que amo no país dos meus sonhos. Mas enquanto isso não rola, sigo firme criando meu caminho, com consistência, criatividade e muita perseverança.
+Tenho uma paixão enorme pelo Canadá, sonho em morar lá e, quem sabe, trabalhar com o que amo no país dos meus sonhos. Mas enquanto isso não rola, sigo firme criando meu caminho, com consistência, criatividade e muita perseverança.
 
 ---
 
