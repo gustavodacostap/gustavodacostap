@@ -46,7 +46,7 @@
 <br>
 
 <p align="left">
-  **Também:** NgRx · Angular Material · jQuery · AJAX · GitFlow · Azure DevOps · JWT · REST APIs
+  Também: NgRx · Angular Material · jQuery · AJAX · GitFlow · Azure DevOps · JWT · REST APIs
 </p>
 
 ## Experiência
